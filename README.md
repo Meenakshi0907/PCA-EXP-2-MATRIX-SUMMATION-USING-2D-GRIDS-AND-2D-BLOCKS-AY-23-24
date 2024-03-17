@@ -1,10 +1,10 @@
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
   
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
-  
-# ENTER YOUR NAME: 
-# REGISTER NO: 
-# EX. NO:
+
+# EX. NO: 02
+# ENTER YOUR NAME: Meenakshi M 
+# REGISTER NO: 212221230057
 # DATE:
 
 - i.  Use the file sumMatrixOnGPU-2D-grid-2D-block.cu
