@@ -1,8 +1,5 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
-<h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
-
-
 # EX. NO: 02
 # ENTER YOUR NAME: Meenakshi M 
 # REGISTER NO: 212221230057
